@@ -5,7 +5,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   <header>
-    <img alt="Vue logo" class="logo" src="@/assets/logo.svg" width="225" height="225" />
+    <img alt="Mentor logo" class="logo" src="@/assets/logo.svg" width="225" height="225" />
 
     <div class="wrapper">
       <HelloWorld msg="AI Mentor" />
