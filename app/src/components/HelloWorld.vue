@@ -9,7 +9,7 @@ defineProps<{
     <h1 class="green">{{ msg }}</h1>
     <h3>
        <p>Мы поможем улучшать качество и достигать поставленных целей.</p>
-      <a href="https://huly.app/login/signup" target="_blank" rel="noopener">бесплатная версия</a>. Пробуем?
+      <a href="https://huly.app/login/signup" target="_blank" rel="noopener">бесплатная версия</a>Пробуем?
     </h3>
   </div>
 </template>
