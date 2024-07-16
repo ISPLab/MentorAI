@@ -8,7 +8,7 @@
     "build": "run-p type-check \"build-only {@}\" --",
     "preview": "vite preview",
     "build-only": "vite build ",
-    "deploy": "vite build && cp -r dist/ ../ && ",
+    "deploy": "vite build && cp -r dist/ ../ ",
     "type-check": "vue-tsc --build --force"
   },
   "dependencies": {
