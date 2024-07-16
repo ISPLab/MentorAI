@@ -8,8 +8,5 @@ mv index.html.copy index.html
 git add .
 echo "commit..."
 git commit -m "deploy"
-
 echo "push..."
 git push origin main
-
-
